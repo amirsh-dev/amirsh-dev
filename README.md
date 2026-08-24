@@ -14,16 +14,13 @@
 
 
 
-<h4>WEB & DEVELOPMENT</h4>
-<div>
-  <img width="400px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,electron,wordpress,arduino" />
+<h3>Tech Stack</h3>
+<div align="left">
+  <a href="https://github.com/amirsh-dev">
+     <img width="480px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,electron,wordpress,arduino,git,figma" />
+  </a>
 </div>
-
-<h4>TOOLS</h4>
-<div>
-  <img width="85px" src="https://skillicons.dev/icons?i=git,figma" />
-</div>
-
+<br><br>
 <div align="center">
    
 `CODE` · `LEARN` · `BUILD` · `IMPROVE`
