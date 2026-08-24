@@ -23,7 +23,7 @@
      <img width="315px" src="https://skillicons.dev/icons?i=html,css,js,wordpress,arduino,git,figma" />
   </a>
 </div>
-<h3>Currently Learning</h3>
+<h3>Learning</h3>
 <div align="left">
   <a href="#">
      <img width="270px" src="https://skillicons.dev/icons?i=react,vue,threejs,ts,nodejs,electron" />
