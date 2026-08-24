@@ -26,3 +26,7 @@
 `CODE` · `LEARN` · `BUILD` · `IMPROVE`
 
 </div>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:FFFFFF&height=80&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=FFFFFF&fontAlignY=80"
+/>
