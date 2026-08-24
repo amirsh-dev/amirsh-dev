@@ -20,13 +20,13 @@
 <h3>Tech Stack</h3>
 <div align="left">
   <a href="#">
-     <img width="315px" src="https://skillicons.dev/icons?i=html,css,js,py,wordpress,arduino,git,figma" />
+     <img width="328px" src="https://skillicons.dev/icons?i=html,css,js,py,wordpress,arduino,git,figma" />
   </a>
 </div>
 <h3>Learning</h3>
 <div align="left">
   <a href="#">
-     <img width="270px" src="https://skillicons.dev/icons?i=react,vue,threejs,ts,nodejs,electron" />
+     <img width="246px" src="https://skillicons.dev/icons?i=react,vue,threejs,ts,nodejs,electron" />
   </a>
 </div>
 <br><br>
