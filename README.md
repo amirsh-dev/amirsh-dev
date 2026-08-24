@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="./banner2.jpg" alt="The Creation of Adam"/>
+<img src="./banner6.jpg" alt="Amir Hossin Shahsavari"/>
 </div>
 <div align="left">
    <h2>Amir Hossin Shahsavari</h2>
