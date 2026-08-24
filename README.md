@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="./banner2.jpg"/>
+<img src="./banner2.jpg" alt="The Creation of Adam"/>
 </div>
 <div align="left">
    <h2>Amir Hossin Shahsavari</h2>
@@ -27,9 +27,11 @@
 
 </div>
 
-<a href="https://github.com/amirsh-dev">
+
 <img
   width="100%"
+  alt="Thanks for visiting"
   src="https://capsule-render.vercel.app/api?   type=waving&color=0:000000,50:555555,100:FFFFFF&height=80&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=FFFFFF&fontAlignY=80"
 />
-</a>
+
+
