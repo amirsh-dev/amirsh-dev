@@ -1,120 +1,94 @@
-# Hi, I'm Amir Hossein 👋
+<div align="center">
 
-### Front-End Developer · JavaScript · React · Next.js
+# AMIR HOSSEIN
 
-I build modern, responsive and scalable web applications with a focus on clean code, performance and user experience.
+### `FRONT-END DEVELOPER`
 
-Currently focused on becoming a **Full-Stack Developer** and building production-ready applications.
+**Building interfaces. Understanding systems.**
 
----
+</div>
 
-## 🚀 About Me
-
-* 💻 Front-End Developer focused on the JavaScript ecosystem
-* ⚛️ Working with React and Next.js
-* 🧠 Interested in software architecture, algorithms and computer science
-* 🔧 Building real-world projects and improving my engineering skills
-* 🌱 Currently expanding my knowledge toward Full-Stack development
-
----
-
-## 🛠️ Tech Stack
-
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Back-End & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Project Name
-
-> Short description of what the project does and what problem it solves.
-
-**Tech:** HTML · CSS · JavaScript
-
-[View Project](#) · [Source Code](#)
-
-### 🔹 Project Name
-
-> Short description of the project and its main features.
-
-**Tech:** React · JavaScript · API
-
-[View Project](#) · [Source Code](#)
-
-### 🔹 Project Name
-
-> Short description of the project.
-
-**Tech:** Next.js · React · Tailwind CSS
-
-[View Project](#) · [Source Code](#)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-</p>
-
----
-
-## 📈 Currently Learning
+<br>
 
 ```text
-React
-Next.js
-TypeScript
-Node.js
-REST APIs
-Database Design
-Software Architecture
-Data Structures & Algorithms
+────────────────────────────────────────────────────────────
+
+   I write code for the web.
+
+   Currently focused on Front-End Development,
+   JavaScript and the React ecosystem.
+
+   My goal isn't to learn every tool.
+   It's to understand the tools I use deeply.
+
+────────────────────────────────────────────────────────────
 ```
 
----
+<br>
 
-## 🤝 Let's Connect
+## `01 / STACK`
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-    LinkedIn
-  </a>
-  ·
-  <a href="mailto:YOUR_EMAIL">
-    Email
-  </a>
-</p>
+**CORE**
 
----
+```text
+HTML        CSS         JavaScript
+Flexbox     CSS Grid    Tailwind CSS
+React       Git         Python
+```
 
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
+<br>
 
+## `02 / HOW I WORK`
+
+```text
+01  Understand
+    ↓
+02  Build
+    ↓
+03  Break
+    ↓
+04  Debug
+    ↓
+05  Improve
+```
+
+I care about **clean interfaces, maintainable code and understanding what's happening underneath the abstraction.**
+
+<br>
+
+## `03 / CURRENT DIRECTION`
+
+```text
+Front-End
+    │
+    ├── JavaScript
+    ├── React
+    ├── UI / UX
+    └── Web Architecture
+         │
+         ▼
+     Full-Stack
+```
+
+I'm currently deepening my Front-End skills while moving toward **Full-Stack Development**.
+
+<br>
+
+## `04 / PRINCIPLES`
+
+> **Learn the fundamentals.**
+> **Build real things.**
+> **Keep the code simple.**
+> **Understand before abstracting.**
+
+<br>
+
+<div align="center">
+
+`CODE` · `LEARN` · `BUILD` · `IMPROVE`
+
+<br><br>
+
+<sub>© 2026 Amir Hossein</sub>
+
+</div>
