@@ -8,6 +8,7 @@
    <!-- <strong><sub>Building interfaces. Understanding systems</sub></strong> -->
    <code>Building interfaces,Understanding systems</code>
    <br>
+   <h3>About me</h3>
    <p>Frontend Engineer specializing in crafting exceptional digital experiences — from lightning-fast, responsive          interfaces built with React, Next.js, JavaScript, TypeScript, HTML, CSS, and Tailwind, to scalable backend services powered by Node.js. Designing and developing performant, accessible, and maintainable web applications with a strong emphasis on clean architecture, intuitive user experience, and production-ready code. Leveraging AI-powered development with Claude Code, Cursor, Codex, GitHub Copilot, and modern agentic workflows to accelerate engineering, streamline development, and deliver reliable software at scale.</p>
 </div>
 
