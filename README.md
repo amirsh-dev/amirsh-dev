@@ -14,13 +14,10 @@
    <p>Frontend Engineer specializing in crafting exceptional digital experiences — from lightning-fast, responsive interfaces built with <strong>React</strong>, <strong>Vue.js</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>HTMl</strong>, <strong>CSS</strong>, and <strong>Tailwind</strong>, to scalable backend services powered by <strong><strong>TypeScript</strong></strong>. Designing and developing performant, accessible, and maintainable web applications with a strong emphasis on clean architecture, intuitive user experience, and production-ready code. Leveraging AI-powered development with Claude Code, Cursor, Codex, GitHub Copilot, and modern agentic workflows to accelerate engineering, streamline development, and deliver reliable software at scale.<br><br>Proudly rooted in the land of Persia (Iran) and born in the heart of Kurdistan — a son of the mountains, where resilience, simplicity, and a deep sense of perspective shape the way I build, think, and create.</p>
 </div>
 
-
-
-
 <h3>Tech Stack</h3>
 <div align="left">
   <a href="#">
-     <img width="328px" src="https://skillicons.dev/icons?i=html,css,js,py,wordpress,arduino,git,figma" />
+     <img width="328px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,wordpress,arduino,git,figma" />
   </a>
 </div>
 <h3>Learning</h3>
@@ -36,11 +33,8 @@
 
 </div>
 
-
 <!-- <img
   width="100%"
   alt="Thanks for visiting"
   src="https://capsule-render.vercel.app/api?   type=waving&color=0:000000,50:555555,100:FFFFFF&height=80&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=FFFFFF&fontAlignY=80"
 /> --> <!--commented because not loading -->
-
-
