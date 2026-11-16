@@ -17,7 +17,7 @@
 <h3>Tech Stack</h3>
 <div align="left">
   <a href="#">
-     <img width="328px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,wordpress,arduino,git,figma" />
+     <img width="369px" src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,wordpress,arduino,git,figma" />
   </a>
 </div>
 <h3>Learning</h3>
